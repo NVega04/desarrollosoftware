@@ -1,2 +1,1 @@
-# Desarrollo de Software
-# Repo talleres y actividades
+# Desarrollo de Software (repo talleres)
